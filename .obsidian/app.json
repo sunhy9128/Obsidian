@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "legacyEditor": true,
+  "livePreview": false,
+  "defaultViewMode": "source",
+  "attachmentFolderPath": "./",
+  "newFileLocation": "current"
+}

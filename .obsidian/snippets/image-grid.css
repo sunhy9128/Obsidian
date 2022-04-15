@@ -1,0 +1,22 @@
+/*Image Flags Snippet by Lithou
+http://github.com/lithou/sandbox
+*/
+
+/* 上面的地址是 图片并列显示的原始地址，我去除了非必须的部分，
+且解决了在使用 img-gird 语法与 minimal 主题图片放大缩小代码的兼容问题。
+ */
+
+
+/* Grid View */
+.img-grid p {
+    display: table;
+}
+
+.img-grid span.image-embed[alt*="."] {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.img-grid img[alt*="."]:hover{
+    transform: scale(1.1);
+}

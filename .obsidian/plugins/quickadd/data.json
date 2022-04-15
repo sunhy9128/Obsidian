@@ -1,0 +1,32 @@
+{
+  "choices": [
+    {
+      "id": "c09bb50a-a73c-4517-bb70-36a9cb62bbd4",
+      "name": "Note",
+      "type": "Template",
+      "command": false,
+      "templatePath": "templater",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line"
+}

@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "cb29dd8059144757",
+    "type": "split",
+    "children": [
+      {
+        "id": "628864b9a705eb7d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "weekly/docs/issue-171.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7db031693bad8fc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0015424634932a41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "687aed298ee6d594",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "44e43bdea1f80d83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "IP",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 459.01219177246094
+  },
+  "right": {
+    "id": "2910f3517cecea0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "71cd7fb7866b05c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e4bd588424d6bc8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "weekly/docs/issue-171.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c673c647eb920df6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "78d66e0e756f0736",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "weekly/docs/issue-171.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc3561ec6a3dad9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "weekly/docs/issue-171.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "628864b9a705eb7d",
+  "lastOpenFiles": [
+    "weekly/docs/issue-171.md",
+    "weekly/docs/issue-172.md",
+    "weekly/docs/issue-173.md",
+    "weekly/docs/issue-174.md",
+    "weekly/docs/issue-175.md",
+    "weekly/docs/issue-176.md",
+    "weekly/docs/issue-177.md",
+    "weekly/docs/issue-194.md",
+    "weekly/docs/issue-201.md",
+    "碎片/2022-04-11.md"
+  ]
+}

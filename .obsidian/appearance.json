@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 21,
+  "enabledCssSnippets": [
+    "highlight colors",
+    "image-grid"
+  ],
+  "theme": "moonstone",
+  "cssTheme": "Obsidian You",
+  "translucency": false
+}
