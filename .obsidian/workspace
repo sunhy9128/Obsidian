@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "628864b9a705eb7d",
+        "id": "56a760160ff2aed0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "weekly/docs/issue-171.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "81f4c3c4d6f36779",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "碎片/2022-04-21.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -79,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "碎片/2022-04-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "碎片/2022-04-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "碎片/2022-04-21.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -130,10 +112,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "81f4c3c4d6f36779",
+  "active": "56a760160ff2aed0",
   "lastOpenFiles": [
-    "碎片/2022-04-21.md",
     "weekly/docs/issue-171.md",
+    "碎片/2022-04-21.md",
     "weekly/docs/issue-172.md",
     "weekly/docs/issue-173.md",
     "weekly/docs/issue-174.md",
