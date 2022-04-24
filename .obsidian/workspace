@@ -9,9 +9,17 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "碎片/2022-04-22.md",
+            "file": "碎片/2022-04-24.md",
             "mode": "source"
           }
+        }
+      },
+      {
+        "id": "e9780ba7fa7296e0",
+        "type": "leaf",
+        "state": {
+          "type": "memos_view",
+          "state": {}
         }
       }
     ],
@@ -68,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "碎片/2022-04-22.md",
+                "file": "碎片/2022-04-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "碎片/2022-04-22.md",
+                "file": "碎片/2022-04-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "碎片/2022-04-22.md"
+                "file": "碎片/2022-04-24.md"
               }
             }
           }
@@ -121,6 +129,7 @@
   },
   "active": "56a760160ff2aed0",
   "lastOpenFiles": [
+    "碎片/2022-04-24.md",
     "碎片/2022-04-22.md",
     "weekly/docs/issue-171.md",
     "碎片/2022-04-21.md",
@@ -129,7 +138,6 @@
     "weekly/docs/issue-174.md",
     "weekly/docs/issue-175.md",
     "weekly/docs/issue-176.md",
-    "weekly/docs/issue-177.md",
-    "weekly/docs/issue-194.md"
+    "weekly/docs/issue-177.md"
   ]
 }
